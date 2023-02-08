@@ -1,0 +1,22 @@
+16/02/2021 15:22:24.05 All tests completed: 3 passed, 1 advisory, 1 failed. 
+19/02/2021 14:11:22.20 All tests completed: 3 passed, 1 advisory, 1 failed. 
+22/02/2021 12:43:04.68 All tests completed: 3 passed, 1 advisory, 1 failed. 
+23/02/2021 13:26:00.22 All tests of location completed: 13 passed, 5 advisory, 2 failed (of 111 total). 
+23/02/2021 13:30:37.22 All tests of location completed: 13 passed, 5 advisory, 2 failed (of 111 total). 
+23/02/2021 13:32:34.87 All tests of location completed: 13 passed, 5 advisory, 2 failed (of 111 total). 
+23/02/2021 13:36:50.23 All tests of location completed: 13 passed, 5 advisory, 2 failed (of 111 total). 
+23/02/2021 13:39:52.65 All tests of location completed: 13 passed, 5 advisory, 2 failed (of 111 total). 
+23/02/2021 14:44:42.70 All tests of location completed: 13 passed, 5 advisory, 2 failed (of 111 total). 
+23/02/2021 14:50:09.98 All tests of location completed: 14 passed, 5 advisory, 1 failed (of 111 total). 
+23/02/2021 14:52:08.75 All tests of location completed: 13 passed, 5 advisory, 2 failed (of 111 total). 
+23/02/2021 15:13:03.15 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+23/02/2021 15:16:21.62 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+23/02/2021 15:18:46.51 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+23/02/2021 15:24:24.25 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+23/02/2021 15:44:03.86 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+23/02/2021 16:05:06.81 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+23/02/2021 16:11:09.79 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+23/02/2021 16:13:32.92 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+23/02/2021 16:17:44.49 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+02/03/2021 11:20:41.01 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+02/03/2021 11:36:35.34 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 

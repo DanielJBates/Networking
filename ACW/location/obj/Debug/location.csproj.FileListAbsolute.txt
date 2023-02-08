@@ -1,0 +1,14 @@
+C:\Users\DBate\Documents\UniWork\602854\500081\Lab\location\bin\Debug\location.exe.config
+C:\Users\DBate\Documents\UniWork\602854\500081\Lab\location\bin\Debug\location.exe
+C:\Users\DBate\Documents\UniWork\602854\500081\Lab\location\bin\Debug\location.pdb
+C:\Users\DBate\Documents\UniWork\602854\500081\Lab\location\obj\Debug\location.csprojAssemblyReference.cache
+C:\Users\DBate\Documents\UniWork\602854\500081\Lab\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+C:\Users\DBate\Documents\UniWork\602854\500081\Lab\location\obj\Debug\location.exe
+C:\Users\DBate\Documents\UniWork\602854\500081\Lab\location\obj\Debug\location.pdb
+\\adir.hull.ac.uk\home\602\602854\Work\602854\500081\Lab\location\bin\Debug\location.exe.config
+\\adir.hull.ac.uk\home\602\602854\Work\602854\500081\Lab\location\bin\Debug\location.exe
+\\adir.hull.ac.uk\home\602\602854\Work\602854\500081\Lab\location\bin\Debug\location.pdb
+\\adir.hull.ac.uk\home\602\602854\Work\602854\500081\Lab\location\obj\Debug\location.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\602\602854\Work\602854\500081\Lab\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\602\602854\Work\602854\500081\Lab\location\obj\Debug\location.exe
+\\adir.hull.ac.uk\home\602\602854\Work\602854\500081\Lab\location\obj\Debug\location.pdb

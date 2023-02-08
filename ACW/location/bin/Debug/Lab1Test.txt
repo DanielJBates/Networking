@@ -1,0 +1,6 @@
+09/02/2021 15:35:08.07 All tests of location completed: 4 passed, 0 advisory, 1 failed (of 28 total). 
+09/02/2021 15:45:16.94 All tests of location completed: 4 passed, 0 advisory, 1 failed (of 28 total). 
+09/02/2021 15:47:51.45 All tests of location completed: 4 passed, 0 advisory, 1 failed (of 28 total). 
+09/02/2021 15:49:17.99 All tests of location completed: 4 passed, 0 advisory, 1 failed (of 28 total). 
+09/02/2021 16:10:15.93 All tests of location completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for  (DBate) at 09/02/2021 16:10:28.98 on Dans-Laptop 
